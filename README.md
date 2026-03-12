@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Cybersecurity student.<br>Read Team<br>CRTA |</h2>
+<h2 align="left">Cybersecurity student.<br>Red Team<br>CRTA |</h2>
 
 ###
 
