@@ -1,8 +1,8 @@
-<h1 align="center">boosito</h1>
+<h1 align="center">!!</h1>
 
 ###
 
-<h2 align="left">Cybersecurity student.<br>Red Team<br>CRTA |</h2>
+<h2 align="left">Cybersecurity student.<br>Read Team<br>CRTA |</h2>
 
 ###
 
