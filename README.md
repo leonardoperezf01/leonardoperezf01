@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Cybersecurity student.<br>Red Team & Ofensive Security<br>CRTA | EWPTV2 | </h2>
+<h2 align="left">Cybersecurity student.<br>Red Team & Ofensive Security<br>CRTA | EWPTV2 | EWPTXV3 </h2>
 
 ###
 
